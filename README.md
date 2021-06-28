@@ -1,5 +1,7 @@
-# loading-indicator
-HOC Loading Indicator for my personal react project
+Loading Indicator HOC for my personal react project.
+
+# loading-indicator HOC
+What is Loading Indicator? Actually, this project very simple, a HOC that is show loading at the top window. every time you scroll a window (vertically), the width of the loading indicator width will be increase  
 
 ### install
 ```
