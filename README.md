@@ -20,5 +20,13 @@ export default WithLoadingIndicator(App)
 
 index.js
 ```
-<App colorIndicator=""/>
+<App colorIndicator="blue"/>
 ```
+
+colorIndicator
+1. blue
+2. red
+3. gold
+4. chocolate
+5. green
+
