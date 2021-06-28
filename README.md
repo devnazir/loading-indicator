@@ -29,4 +29,5 @@ colorIndicator
 3. gold
 4. chocolate
 5. green
+6. yellow
 
