@@ -52,7 +52,7 @@ ReactDOM.render(
 | green |
 | yellow |
 
-if you want change the color, you can override css the id of the element loading indicator like this:
+if you want to change the color, you can override css the id of the element loading indicator like this:
 ```
 #loading-indicator {
   background-color: color !important
