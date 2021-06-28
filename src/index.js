@@ -1,4 +1,4 @@
-import { Fragment, useEffect, useRef } from 'react'
+import React, { Fragment, useEffect, useRef } from 'react'
 import { colors } from './style'
 
 function LoadingIndicator({ colorIndicator }) {
